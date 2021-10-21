@@ -3,15 +3,15 @@
 <h3>Task details:</h3>
 <h4>To do:</h4>
 1. Make an Angular webapp with proper Authentication system ( SignUp or Register page, Login
-and Logout pages with all the necessary validations)
+and Logout pages with all the necessary validations)<br>
 2. List User page after logging in ( User should not be able to access this page directly without
-logging in)
+logging in)<br>
 3. List Resources page ( User should not be able to access this page directly without logging in)
 ** If the User tries to access the resources or users list pages he should be asked to Login
 via popup
 <h4>Essentials for the Task:</h4>
-1. Use angular Material Components
-2. You can use the APIs from https://reqres.in/ site
+1. Use angular Material Components<br>
+2. You can use the APIs from https://reqres.in/ site<br>
 3. Maintain the code structure and file structure.
 
 # angular-7-registration-login-example
